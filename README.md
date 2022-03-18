@@ -6,8 +6,8 @@
   금융과 소비자의 경계를 풀고 싶은, 개발자 서은빈입니다. <br><br>
 </div>
 
-<h3 align="center">STACKS </h3>
-<p align="center">   
+<h3 align="left">STACKS </h3>
+<p align="v">   
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -20,8 +20,8 @@
   <img alt="jquery" src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 </p>
 
-<h3 align="center">CONTACT ME</h3>
-<p align="center">
+<h3 align="left">CONTACT ME</h3>
+<p align="left">
   <a href="mailto:jeansuh42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trumanfromkorea@gmail.com"/>
   </a>
