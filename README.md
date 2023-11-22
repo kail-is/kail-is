@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Jean%20Suh&fontColor=EFF7FF&fontSize=30&fontAlignY=43)
   
-  금융과 소비자의 경계를 풀고 싶은, 개발자 서은빈입니다. <br><br>
+  낯섦과 소비자의 경계를 풀고 싶은, 개발자 서은빈입니다. <br><br>
 </div>
 
 <h3 align="left">STACKS </h3>
