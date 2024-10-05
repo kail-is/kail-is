@@ -22,3 +22,5 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trumanfromkorea@gmail.com"/>
   </a>
 </p>
+
+> You can call me Kailis or Jean, or even Eunbin. (if you can handle the pronunciation)
