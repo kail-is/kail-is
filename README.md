@@ -10,7 +10,6 @@
   <p align="v">   
     <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
     <img alt="RDB" src="https://img.shields.io/badge/RDB-F80000?style=flat-square&logo=oracle&logoColor=white">
     <br>
     <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=black"/>
